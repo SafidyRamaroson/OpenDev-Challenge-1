@@ -54,7 +54,7 @@ body {
     width: 100vw;
     height: 100vh;
     border-radius: var(--border);
-    /* margin-inline: 12px; */
+    
 }
 
 .cart {
@@ -62,7 +62,7 @@ body {
     height: fit-content;
     border-radius: var(--border);
     box-shadow: 4px -5px 8px rgba(0, 0, 0, 0.3);
-
+    margin-inline: 12px;
 }
 
 .cart-header {
